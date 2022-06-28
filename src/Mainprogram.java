@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Mainprogram extends Thread {
+public class Mainprogram {
 	static List<Taxi> taxilist = new ArrayList<>();
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
